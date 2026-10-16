@@ -1,0 +1,9 @@
+merchant,date,amount,currency,category,tax,review_status
+Example Software Ltd,2026-10-01,2499.00,INR,Software,,confirmed
+Cloud Hosting Co,2026-10-03,999.00,INR,Software,,confirmed
+Office Depot,2026-10-05,450.00,INR,Office Supplies,,confirmed
+Uber,2026-10-07,320.00,INR,Travel,,confirmed
+Swiggy,2026-10-09,180.00,INR,Food,,confirmed
+Adobe Inc,2026-10-11,1699.00,INR,Software,,confirmed
+Stationery Store,2026-10-13,275.00,INR,Office Supplies,,confirmed
+Google Ads,2026-10-15,3500.00,INR,Marketing,,confirmed
