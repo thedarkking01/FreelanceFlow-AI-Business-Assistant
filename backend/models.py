@@ -34,8 +34,7 @@ class ExpenseOut(ExpenseCreate):
     id: int
     created_at: str
 
-    class Config:
-        from_attributes = True
+    model_config = {"from_attributes": True}
 
 
 # ── Invoice ───────────────────────────────────────────────
@@ -67,5 +66,4 @@ class InvoiceOut(InvoiceCreate):
     id: int
     created_at: str
 
-    class Config:
-        from_attributes = True
+    model_config = {"from_attributes": True}
